@@ -14,7 +14,7 @@ public class Sum_OneTo_100 {
             sum = sum+i;
         }
 
-        System.out.println(sum);
+        System.out.println("Sum: "+sum);
 
     }
     
