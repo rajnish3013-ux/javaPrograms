@@ -6,7 +6,7 @@ public class Pattern_RightHalfPyramid {
 
         Scanner sc = new Scanner(System.in);
 
-        int n, m;
+        int n;
 
         System.out.print("Enter Input For Row: ");
 
